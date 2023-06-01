@@ -1,0 +1,6 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace"
+}
